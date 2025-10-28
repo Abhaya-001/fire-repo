@@ -1,0 +1,10 @@
+import math
+def clas(n):
+    if n > 1:
+        print("n is greater")
+    else:
+        print("less tha zero")
+
+
+n = int(input("what is x "))
+clas(n)
